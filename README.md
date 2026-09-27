@@ -1,4 +1,4 @@
-# Projects Overview
+## Projects Overview
 
 - [Trading v1](https://github.com/jmenzler/trading-v1-overview): Solo-built hedged tokenized-equity arbitrage system that trades Solana DEXs on-chain and hedges on Alpaca and Hyperliquid, in live and deterministic replay modes. *Python, Numba, TimescaleDB*
 - [lightweight-smr-blockchain](https://github.com/jmenzler/lightweight-smr-blockchain): Bachelor thesis. Rust implementation of a lightweight state machine replication protocol, with a deterministic simulator and a [live browser demo](https://jmenzler.github.io/lightweight-smr-blockchain/). *Rust, Tokio, WebAssembly*
