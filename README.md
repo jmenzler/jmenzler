@@ -1,7 +1,3 @@
-## Hi, I'm Jannis
-
-Computer Science student. I build trading systems end to end — on-chain execution, hedging, market data and the infrastructure that keeps them honest — and wrote my Bachelor thesis on state machine replication in Rust.
-
 ## Projects
 
 **Trading systems**
