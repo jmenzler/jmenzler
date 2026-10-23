@@ -2,8 +2,6 @@
 
 Computer Science student. I build trading systems end to end — on-chain execution, hedging, market data and the infrastructure that keeps them honest — and wrote my Bachelor thesis on state machine replication in Rust.
 
-[![Skills](https://skillicons.dev/icons?i=py,cpp,rust,ts,react,postgres,docker,linux)](#projects)
-
 ## Projects
 
 **Trading systems**
@@ -25,5 +23,9 @@ Computer Science student. I build trading systems end to end — on-chain execut
 
 - [form-digitizer](https://github.com/jmenzler/form-digitizer): Web tool that extracts handwritten ecological survey forms with an LLM and fuzzy species matching, plus a native iPad app for field entry. *Python, Flask, SwiftUI*
 - [relaio](https://github.com/jmenzler/relaio): After-sales email automation for insurance brokers, with AI-personalized emails and GDPR consent tracking. *FastAPI, Next.js, Supabase*
+
+**Stack**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,rust,ts,react,postgres,docker,linux" height="32" alt="Python, C++, Rust, TypeScript, React, PostgreSQL, Docker, Linux">
 
 Contact: jannismenzler@gmail.com
