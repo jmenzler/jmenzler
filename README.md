@@ -22,6 +22,6 @@
 
 **Stack**
 
-<img src="https://skillicons.dev/icons?i=py,cpp,rust,ts,react,postgres,docker,linux" height="32" alt="Python, C++, Rust, TypeScript, React, PostgreSQL, Docker, Linux">
+<img src="https://skillicons.dev/icons?i=py,cpp,rust,ts,react,postgres,docker,prometheus,grafana,githubactions,wasm,linux" height="32" alt="Python, C++, Rust, TypeScript, React, PostgreSQL, Docker, Prometheus, Grafana, GitHub Actions, WebAssembly, Linux">
 
 Contact: jannismenzler@gmail.com
